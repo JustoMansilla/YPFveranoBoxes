@@ -1,0 +1,14 @@
+@font-face {
+    font-family: ciutadella-regular;
+    src: url(/ciutadella_font_family/Ciutadella-Regular.otf);
+  }
+
+  @font-face {
+    font-family: ciutadella-bold;
+    src: url(/ciutadella_font_family/Ciutadella-Bold.otf);
+  }
+
+  @font-face {
+    font-family: ciutadella-medium;
+    src: url(/ciutadella_font_family/Ciutadella-Medium.otf);
+  }
