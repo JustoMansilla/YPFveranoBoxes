@@ -164,13 +164,13 @@ website:    http://www.themepunch.com
 .erinyen .tp-bullet:hover,
 .erinyen .tp-bullet.selected {
 	background: #e5e5e5; /* old browsers */
-background: -moz-linear-gradient(top,  #e5e5e5 0%, #1065C5 100%); /* ff3.6+ */
-background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e5e5e5), color-stop(100%,#1065C5)); /* chrome,safari4+ */
-background: -webkit-linear-gradient(top,  #e5e5e5 0%,#1065C5 100%); /* chrome10+,safari5.1+ */
-background: -o-linear-gradient(top,  #e5e5e5 0%,#1065C5 100%); /* opera 11.10+ */
-background: -ms-linear-gradient(top,  #e5e5e5 0%,#1065C5 100%); /* ie10+ */
-background: linear-gradient(to bottom,  #e5e5e5 0%,#1065C5 100%); /* w3c */
-filter: progid:dximagetransform.microsoft.gradient( startcolorstr="#e5e5e5", endcolorstr="#1065C5",gradienttype=0 ); /* ie6-9 */
+background: -moz-linear-gradient(top,  #e5e5e5 0%, #2b3880 100%); /* ff3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e5e5e5), color-stop(100%,#2b3880)); /* chrome,safari4+ */
+background: -webkit-linear-gradient(top,  #e5e5e5 0%,#2b3880 100%); /* chrome10+,safari5.1+ */
+background: -o-linear-gradient(top,  #e5e5e5 0%,#2b3880 100%); /* opera 11.10+ */
+background: -ms-linear-gradient(top,  #e5e5e5 0%,#2b3880 100%); /* ie10+ */
+background: linear-gradient(to bottom,  #e5e5e5 0%,#2b3880 100%); /* w3c */
+filter: progid:dximagetransform.microsoft.gradient( startcolorstr="#e5e5e5", endcolorstr="#2b3880",gradienttype=0 ); /* ie6-9 */
   border:1px solid #555;
   width:12px;height:12px;
 }

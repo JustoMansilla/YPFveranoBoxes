@@ -1650,7 +1650,7 @@ h5, h6 {
   font-family: ciutadella-regular;
 }
 blockquote {
-  font-family: "Roboto", Arial, Tahoma, sans-serif;
+  font-family: ciutadella-regular;
 }
 .chart_box .chart .num, .counter .desc_wrapper .number-wrapper, .how_it_works .image .number, .pricing-box .plan-header .price, .quick_fact .number-wrapper, .woocommerce .product div.entry-summary .price {
   font-family: "Playfair Display", Arial, Tahoma, sans-serif;

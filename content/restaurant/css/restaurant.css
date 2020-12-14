@@ -477,12 +477,12 @@ body:not(.template-slider) #Header_wrapper {
 /********************** Font | Family **********************/
 
 body, button, span.date_label, .timeline_items li h3 span, input[type="submit"], input[type="reset"], input[type="button"], input[type="text"], input[type="password"], input[type="tel"], input[type="email"], textarea, select, .offer_li .title h3 {
-	font-family: "Roboto", Arial, Tahoma, sans-serif;
+	font-family: ciutadella-regular;
 	font-weight: 400;
 }
 
 #menu > ul > li > a, #header_action_button, #header_cart {
-	font-family: "Roboto", Arial, Tahoma, sans-serif;
+	font-family: ciutadella-regular;
 	font-weight: 400;
 }
 
@@ -512,12 +512,12 @@ h4 {
 }
 
 h5 {
-	font-family: "Roboto", Arial, Tahoma, sans-serif;
+	font-family: ciutadella-regular;
 	font-weight: 700;
 }
 
 h6 {
-	font-family: "Roboto", Arial, Tahoma, sans-serif;
+	font-family: ciutadella-regular;
 	font-weight: 400;
 }
 

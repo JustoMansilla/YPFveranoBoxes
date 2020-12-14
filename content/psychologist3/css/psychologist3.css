@@ -1675,16 +1675,16 @@ body, button, span.date_label, .timeline_items li h3 span, input[type="submit"],
 	font-family: "Lora", Arial, Tahoma, sans-serif;
 }
 h1, h2, h3, h4, .text-logo #logo {
-	font-family: "Roboto", Arial, Tahoma, sans-serif;
+	font-family: ciutadella-regular;
 }
 h5, h6 {
 	font-family: "DM Sans", Arial, Tahoma, sans-serif;
 }
 blockquote {
-	font-family: "Roboto", Arial, Tahoma, sans-serif;
+	font-family: ciutadella-regular;
 }
 .chart_box .chart .num, .counter .desc_wrapper .number-wrapper, .how_it_works .image .number, .pricing-box .plan-header .price, .quick_fact .number-wrapper, .woocommerce .product div.entry-summary .price {
-	font-family: "Roboto", Arial, Tahoma, sans-serif;
+	font-family: ciutadella-regular;
 }
 body {
 	font-size: 14px;

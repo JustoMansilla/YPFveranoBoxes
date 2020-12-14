@@ -367,35 +367,35 @@ body, button, span.date_label, .timeline_items li h3 span, input[type="submit"],
 	font-weight: 400;
 }
 #Subheader .title {
-	font-family: "Roboto", Arial, Tahoma, sans-serif;
+	font-family: ciutadella-regular;
 	font-weight: 400;
 }
 h1, .text-logo #logo {
-	font-family: "Roboto", Arial, Tahoma, sans-serif;
+	font-family: ciutadella-regular;
 	font-weight: 300;
 }
 h2 {
-	font-family: "Roboto", Arial, Tahoma, sans-serif;
+	font-family: ciutadella-regular;
 	font-weight: 300;
 }
 h3 {
-	font-family: "Roboto", Arial, Tahoma, sans-serif;
+	font-family: ciutadella-regular;
 	font-weight: 300;
 }
 h4 {
-	font-family: "Roboto", Arial, Tahoma, sans-serif;
+	font-family: ciutadella-regular;
 	font-weight: 300;
 }
 h5 {
-	font-family: "Roboto", Arial, Tahoma, sans-serif;
+	font-family: ciutadella-regular;
 	font-weight: 700;
 }
 h6 {
-	font-family: "Roboto", Arial, Tahoma, sans-serif;
+	font-family: ciutadella-regular;
 	font-weight: 400;
 }
 blockquote {
-	font-family: "Roboto", Arial, Tahoma, sans-serif;
+	font-family: ciutadella-regular;
 }
 body {
 	font-size: 14px;
@@ -819,7 +819,7 @@ a.button_theme, a.tp-button.button_theme, button, input[type="submit"], input[ty
 /* Contact icons */
 
 .contact_icons a {
-	color: #1065C5 !important;
+	color: #2b3880 !important;
 	font-size: 40px;
 	line-height: 40px;
 }

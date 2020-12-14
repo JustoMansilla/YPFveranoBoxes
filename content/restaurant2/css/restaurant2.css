@@ -1531,9 +1531,9 @@ body.table-hover:not(.woocommerce-page) table tr:hover td {
 	background: #000;
 }
 input[type="date"], input[type="email"], input[type="number"], input[type="password"], input[type="search"], input[type="tel"], input[type="text"], input[type="url"], select, textarea, .woocommerce .quantity input.qty {
-	color: #1065C5;
+	color: #2b3880;
 	background-color: rgba(255, 255, 255, 1);
-	border-color: #1065C5;
+	border-color: #2b3880;
 }
 input[type="date"]:focus, input[type="email"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="text"]:focus, input[type="url"]:focus, select:focus, textarea:focus {
 	color: #636363;

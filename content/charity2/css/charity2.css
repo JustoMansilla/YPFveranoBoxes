@@ -1911,11 +1911,11 @@ h6 {
 	background: #f5f5f5;
 }
 .helper .helper_header .links a.link {
-	color: #1065C5;
+	color: #2b3880;
 	background: #fff;
 }
 .helper .helper_header .links a.link.active, .helper .helper_header .links a:hover.link {
-	color: #1065C5;
+	color: #2b3880;
 	background: rgba(0, 0, 0, .06);
 }
 
